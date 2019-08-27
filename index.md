@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Celia's Page
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello!
+I am Celia. I am a freshman at Purdue University currenty, and I am studying computer science. I want to minor in history because I love that subject as well. I am attempting to be involved in greek life by attending rush, and I am joining the Computer Science Women's Network. I hope to become more involved as I continue my journey as a Boilermaker!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My Favorites
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Favorite Food =** Peanut Butter
+- **Favorite Sport to Play =** Swimming
+- **Favorite Sport to Watch =** Soccer 
+- **Favorite Artist =** Lany, Bruno Mars, and Ariana Grande
+- **Favorite TV Show =** Sherlock and Sex Education
+- **Favorite Movie =** Captain America: The Winter Soldier
+- **Favorite Actor =** Tom Holland
+- **Favorite Actress =** Zendaya Coleman and Blake Lively
+- **Favorite Person =** My Brother
 
 ```markdown
 Syntax highlighted code block
@@ -35,3 +43,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
