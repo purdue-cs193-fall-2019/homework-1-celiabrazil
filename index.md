@@ -1,3 +1,5 @@
+# Celia Brazil's First CS193 Homework
+
 ## Welcome to Celia's Page
 
 Hello!
@@ -6,6 +8,10 @@ I am Celia. I am a freshman at Purdue University currenty, and I am studying com
 
 ### My Favorites
 
+ - **Favorite Parts of CS193 =** 
+ - Not being in a huge lecture hall
+ - Having chill teachers
+ - Getting to learn the tools of CS
 - **Favorite Food =** Peanut Butter
 - **Favorite Sport to Play =** Swimming
 - **Favorite Sport to Watch =** Soccer 
